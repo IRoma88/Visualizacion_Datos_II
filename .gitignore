@@ -1,0 +1,30 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos de entorno local / Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Archivos de Google Colab
+*.ipynb
+casos_covid.csv
+
+# Archivos temporales de Windows
+*.tmp
+~$*
+
+# Archivos de entorno virtual
+.env
+.venv/
+env/
+venv/
+
+# Archivos de logs
+*.log
+
+# Otros
+*.bak
+*.swp
